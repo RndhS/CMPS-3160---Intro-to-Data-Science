@@ -1,20 +1,20 @@
 ---
 layout: page
 title: Introduction to Data Science
-subtitle: CMPS 3160/6160 - Fall 2025
+subtitle: CMPS 3160/6160 - Fall 2026
 published: true
 ---
 <p style="text-align:center;"><img src="{{ 'img/ds_cover_new.jpeg' | relative_url }}" alt="Image of blue light emitting from all the continents in the world map."/></p>
 
 * CMPS-3160/6160: Introduction to Data Science, Tulane University, 3 Credit Hours
-* Prerequisites: CMPS 1500 or CMPS 1100. In lieu of prerequisites as specified, contact instructor for permission to enroll.
+* Prerequisites: CMPS 1500, CMPS 1100, ENGP 2020 or BMEN 2020. In lieu of prerequisites as specified, contact instructor for permission to enroll.
 
 
 * **Instructor:** Dr. Rebecca Faust (rfaust1 at tulane.edu)
 * **Lectures Times:** MWF 9:00 AM - 9:50 AM
 * **Room:** Stanley Thomas 302
-* **Office:** Paul Hall 306 (New Building next to ST)
-* **Office Hours:** Monday 10-11am, Wednesday 12-1pm, and by appointment, Send an email at rfaust1 at tulane.edu with CMPS 3160 in the subject if you are an undergraduate student or CMPS 6160 if you are a graduate student.
+* **Office:** Paul Hall 306 
+* **Office Hours:** Monday 12-1 PM, Wednesday 3-4 and by appointment, Send an email at rfaust1 at tulane.edu with CMPS 3160 in the subject if you are an undergraduate student or CMPS 6160 if you are a graduate student.
 * **Webpage:** [https://nmattei.github.io/cmps3160/](https://nmattei.github.io/cmps3160/)
 * **GitHub:** [https://github.com/nmattei/cmps3160](https://github.com/nmattei/cmps3160)
 
@@ -22,9 +22,7 @@ The instructor and TAs have office hours and are available by appointment.  Plea
 
 
 * ### Teaching Assistants
-* **Graduate Assistant** Mah Noor Asad (sasad1 at tulane.edu)
-  * **Office Hours** Tuesday 2-4 (remote, [zoom link](https://tulane.zoom.us/j/99567653321?pwd=wubuyb6LrkGC1bt4H5GahlXXBQQX16.1)), Friday 10-12PM room ST 316
+* **Graduate Assistant** Alan Zhou (yzhou42 at tulane.edu)
+  * **Office Hours** Tuesday 10-11am (zoom, see canvas for link), Thursday 1:30-2:30pm and Friday 10-11am in ST 316, and by appointment. 
 
-* **Undergraduate Assistant** Troy Freed (tfreed at tulane.edu)
-  * **Office Hours** Monday & Tuesday 5-6:30,  room ST 316
 
